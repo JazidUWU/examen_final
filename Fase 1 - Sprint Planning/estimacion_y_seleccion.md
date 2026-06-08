@@ -16,7 +16,7 @@ Estimación base para las historias numeradas:
 ---
 
 ## 2. Identificación de Dependencias
-![Fotografía de Dependencias](foto_dependencias.jpg)
+![Fotografía de Dependencias](Entregables Fotograficos/foto_dependencias.jpg)
 
 * **H.U. 2** depende de **H.U. 1** (Reserva depende de Disponibilidad).
 * **H.U. 6** depende de **H.U. 2** (Pagos depende de Reserva).
@@ -28,7 +28,7 @@ Estimación base para las historias numeradas:
 ## 3. Selección de Historias (Sprint Backlog Final)
 Para cumplir el **Sprint Goal**, el equipo ha decidido ir a lo seguro y enfocarse exclusivamente en el flujo principal (MVP), seleccionando **únicamente 3 historias**.
 
-![Fotografía del Sprint Backlog](foto_sprint_backlog.jpg)
+![Fotografía del Sprint Backlog](Entregables Fotograficos/foto_sprint_backlog.jpg)
 
 A continuación, el detalle de las historias comprometidas, redactadas exactamente como en sus post-its:
 

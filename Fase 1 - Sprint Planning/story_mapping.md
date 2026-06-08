@@ -2,7 +2,7 @@
 
 A continuación se detalla la estructura transcrita a partir de los post-its de la fotografía:
 
-![Fotografía del Story Mapping físico](foto_story_mapping.jpg)
+![Fotografía del Story Mapping físico](Entregables Fotograficos/foto_story_mapping.jpg)
 
 ## EPIC 1: Reservas Médicas
 * **Feature:** Gestión de Médicos
